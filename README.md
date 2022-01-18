@@ -25,6 +25,9 @@
 <a href="https://www.facebook.com/people/Jay-Prajapati/100024852131637/">
   <img align="left" alt="Keivalya's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+<a href="https://www.facebook.com/people/Jay-Prajapati/100024852131637/">
+  <img align="left" alt="Keivalya's Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" />
+</a>
 
 <!--
 **jayprajapati009/jayprajapati009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
