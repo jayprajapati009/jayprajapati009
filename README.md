@@ -3,10 +3,10 @@
 
 - 🔭 I’m currently working on Robotics and Artificial Intelligence
 - 🌱 I’m currently learning ROS.
-- 👯 I’m looking to collaborate on Web Development, ROS projects and AI projectes.
-- 📫 How to reach me: It's hard but not difficult :p
+- 👯 I’m looking to collaborate on Robotics and Automation projects.
+- 📫 How to reach me: Fly or Wire
 - 😄 Pronouns: Jp
-- ⚡ Fun fact: I talk muchh !! (ps: even work)
+- ⚡ Fun fact: I like cooking. I can cook a code too!
 
 
 <br>
