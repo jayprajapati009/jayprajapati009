@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ROS.
 - 👯 I’m looking to collaborate on Robotics and Automation projects.
 - 📫 How to reach me: Fly or Wire
-- 😄 Pronouns: Jp
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like cooking. I can cook a code too!
 
 
